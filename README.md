@@ -1,9 +1,12 @@
 ## Transformer Decoder
 
 I trained this transformer decoder model on the Titanic Screenplay dataset with the following hyperparameters: 
-`BLOCK_SIZE = 128\n
-BATCH_SIZE = 64\n
-n_embd = 64\n
+`BLOCK_SIZE = 128  
+
+BATCH_SIZE = 64  
+
+n_embd = 64  
+
 dropout = 0.2`
 
 The result of this training is below:
